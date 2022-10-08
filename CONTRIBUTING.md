@@ -5,6 +5,7 @@ Thanks for taking the time to contribute to this project!
 ## How to help?
 
 There are multiple tasks you can do in order to help us, for example:
+ltiple tasks you can do in order to help us,ltiple tasks you can do in order to help us,ltiple tasks you can do in order to help us,ltiple tasks you can do in order to help us,
 
 - fill an issue to report bugs or your specific needs
 - contribute to existing issues
