@@ -42,3 +42,11 @@ CHANGELOG.md
 CHANGELOG.md
 README.md
 CONTRIBUTING.md
+.lightly
+.c_bin
+.classes
+logs
+*.log
+dist
+dist-ssr
+*.local
